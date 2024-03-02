@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "65c07ddaa7071819a0034c02"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:19:06.242Z"
+  },
+  "name": "Stephen John ",
+  "position": "Guard/Forward",
+  "age": 25,
+  "height": "6'11\"",
+  "nationality": "American",
+  "rushingYards": 18,
+  "touchdownThrown": null,
+  "sacks": 2,
+  "madeFieldGoals": 100,
+  "missedFieldGoals": 10,
+  "catchesMade": 75,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07de9a7071819a0034c03"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:19:21.175Z"
+  },
+  "name": "Kevin Durant",
+  "position": "Forward",
+  "age": 33,
+  "height": "6'10\"",
+  "nationality": "American",
+  "rushingYards": 5,
+  "touchdownThrown": 0,
+  "sacks": 2,
+  "madeFieldGoals": 110,
+  "missedFieldGoals": 8,
+  "catchesMade": 65,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07df3a7071819a0034c04"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:19:31.423Z"
+  },
+  "name": "Giannis Antetokounmpo",
+  "position": "Forward",
+  "age": 27,
+  "height": "6'11\"",
+  "nationality": "Greek",
+  "rushingYards": 40,
+  "touchdownThrown": 0,
+  "sacks": 5,
+  "madeFieldGoals": 130,
+  "missedFieldGoals": 15,
+  "catchesMade": 75,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e08a7071819a0034c05"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:19:52.034Z"
+  },
+  "name": "Luka Dončić",
+  "position": "Guard/Forward",
+  "age": 23,
+  "height": "6'7\"",
+  "nationality": "Slovenian",
+  "rushingYards": 15,
+  "touchdownThrown": 0,
+  "sacks": 1,
+  "madeFieldGoals": 105,
+  "missedFieldGoals": 12,
+  "catchesMade": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e11a7071819a0034c06"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:20:01.679Z"
+  },
+  "name": "Joel Embiid",
+  "position": "Center",
+  "age": 28,
+  "height": "7'0\"",
+  "nationality": "Cameroonian",
+  "rushingYards": 10,
+  "touchdownThrown": 0,
+  "sacks": 3,
+  "madeFieldGoals": 140,
+  "missedFieldGoals": 5,
+  "catchesMade": 70,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e20a7071819a0034c07"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:20:16.217Z"
+  },
+  "name": "Kawhi Leonard",
+  "position": "Forward",
+  "age": 31,
+  "height": "6'7\"",
+  "nationality": "American",
+  "rushingYards": 25,
+  "touchdownThrown": 0,
+  "sacks": 4,
+  "madeFieldGoals": 115,
+  "missedFieldGoals": 7,
+  "catchesMade": 85,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e2ba7071819a0034c08"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:20:27.378Z"
+  },
+  "name": "Nikola Jokic",
+  "position": "Center",
+  "age": 27,
+  "height": "7'0\"",
+  "nationality": "Serbian",
+  "rushingYards": 8,
+  "touchdownThrown": 0,
+  "sacks": 2,
+  "madeFieldGoals": 125,
+  "missedFieldGoals": 10,
+  "catchesMade": 95,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e35a7071819a0034c09"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:20:37.018Z"
+  },
+  "name": "Damian Lillard",
+  "position": "Guard",
+  "age": 31,
+  "height": "6'2\"",
+  "nationality": "American",
+  "rushingYards": 30,
+  "touchdownThrown": 0,
+  "sacks": 1,
+  "madeFieldGoals": 100,
+  "missedFieldGoals": 8,
+  "catchesMade": 75,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e3fa7071819a0034c0a"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:20:47.919Z"
+  },
+  "name": "Jayson Tatum",
+  "position": "Forward",
+  "age": 23,
+  "height": "6'8\"",
+  "nationality": "American",
+  "rushingYards": 12,
+  "touchdownThrown": 0,
+  "sacks": 3,
+  "madeFieldGoals": 110,
+  "missedFieldGoals": 6,
+  "catchesMade": 80,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e49a7071819a0034c0b"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:20:57.529Z"
+  },
+  "name": "Devin Booker",
+  "position": "Guard",
+  "age": 25,
+  "height": "6'5\"",
+  "nationality": "American",
+  "rushingYards": 18,
+  "touchdownThrown": 0,
+  "sacks": 2,
+  "madeFieldGoals": 105,
+  "missedFieldGoals": 9,
+  "catchesMade": 70,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e53a7071819a0034c0c"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:21:07.703Z"
+  },
+  "name": "Chris Paul",
+  "position": "Guard",
+  "age": 37,
+  "height": "6'1\"",
+  "nationality": "American",
+  "rushingYards": 10,
+  "touchdownThrown": 0,
+  "sacks": 1,
+  "madeFieldGoals": 95,
+  "missedFieldGoals": 7,
+  "catchesMade": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e5fa7071819a0034c0d"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:21:19.035Z"
+  },
+  "name": "Jimmy Butler",
+  "position": "Forward",
+  "age": 32,
+  "height": "6'7\"",
+  "nationality": "American",
+  "rushingYards": 22,
+  "touchdownThrown": 0,
+  "sacks": 3,
+  "madeFieldGoals": 115,
+  "missedFieldGoals": 5,
+  "catchesMade": 85,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e69a7071819a0034c0e"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:21:29.912Z"
+  },
+  "name": "Rudy Gobert",
+  "position": "Center",
+  "age": 29,
+  "height": "7'1\"",
+  "nationality": "French",
+  "rushingYards": 5,
+  "touchdownThrown": 0,
+  "sacks": 4,
+  "madeFieldGoals": 130,
+  "missedFieldGoals": 12,
+  "catchesMade": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07e73a7071819a0034c0f"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:21:39.452Z"
+  },
+  "name": "Ben Simmons",
+  "position": "Guard/Forward",
+  "age": 25,
+  "height": "6'11\"",
+  "nationality": "Australian",
+  "rushingYards": 15,
+  "touchdownThrown": 0,
+  "sacks": 2,
+  "madeFieldGoals": 100,
+  "missedFieldGoals": 10,
+  "catchesMade": 75,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c07efaa7071819a0034c10"
+  },
+  "created_at": {
+    "$date": "2024-02-05T06:23:54.778Z"
+  },
+  "name": "LeBron James",
+  "position": "Forward",
+  "age": 37,
+  "height": "6'9\"",
+  "nationality": "American",
+  "rushingYards": 0,
+  "touchdownThrown": 0,
+  "sacks": 0,
+  "madeFieldGoals": 0,
+  "missedFieldGoals": 0,
+  "catchesMade": 0,
+  "__v": 0
+}]
